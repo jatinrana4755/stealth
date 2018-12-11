@@ -1,0 +1,80 @@
+h2,p,h4,h3,label
+{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+
+.mb-10
+{
+    margin-bottom: 20px;
+}
+h2
+{
+    font-size:30px;
+    
+}
+
+p
+{
+    font-size: 13px !important;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+.cont{
+    min-height: 350px;
+    background:url('../../assets/image/supportknobs.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    box-shadow:inset 0 0 0 2000px rgba(6, 7, 7, 0.349);
+    
+    }
+    .contact{
+        color:white;
+        padding-top: 180px;
+        font-size: 2.4rem;
+    }
+
+.pn
+{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.mn
+{
+    margin-top: 0px !important;
+    margin-bottom: 0px !important; 
+}
+
+.no-margin
+{
+    margin: 0px;
+}
+
+label
+{
+    float: left;
+}
+
+.btn1
+{
+   float: left;
+   color: black;
+   background: white;
+   border: 1px solid lightgray;
+   min-width: 100px;
+   min-height: 40px
+}
+
+.cent
+{
+    text-align: left;
+}
+
+.marge-bot1
+{
+margin-bottom: 50px;
+}

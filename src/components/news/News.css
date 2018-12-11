@@ -1,0 +1,131 @@
+  .btn{
+
+      background-color: #588de2;
+      color: #ffffff;
+      font-weight: bold;
+  }
+
+  ul{
+      list-style-type: none;
+  }
+.myp
+{
+    font-family: Poppins;
+    margin: 10px;
+    font-family: Poppins;
+    font-size: 10px;
+    background-color: #eee;
+}
+
+  div.jumbotron.hero-natures1{
+      color:#fff;
+      text-align:center;
+      background:url('../../assets/image/SS_HP_Science_banners2.jpg');
+      background-size:cover;
+      background-position:center;
+      padding-top:200px;
+      margin-top: 105px;
+
+
+
+  }
+
+  .component
+  {
+      margin: auto;
+  }
+
+  .card
+  {
+    width: 22rem;
+    margin: auto;
+    background: #F9F9F9;
+    border:none;
+  }
+
+  .btn
+  {
+    background: #4dc5df;
+    font-family: 'Poppins',sans-serif;
+  }
+
+  .card-title,.card-text
+  {
+      font-family: 'Poppins',sans-serif;
+      font-style: normal;
+  }
+
+  .card-title
+  {
+      font-size: x-large;
+      font-weight: normal;
+  }
+
+  .card-text
+  {
+      font-size: 12px;
+      justify-content: space-evenly
+  }
+ .row
+ {
+     margin-left: 100px;
+     margin-right: 100px;
+ }
+
+ .col-md-3
+ {
+     padding-left: 0px;
+     padding-right: 0px;
+ }
+
+ .cardboxes
+{
+    background: #F9F9F9;
+    width: 14rem;
+    text-align: center;
+    padding: 10px;
+    overflow: hidden;
+    margin-bottom: 5px;
+}
+
+.card-img-home
+{
+    height: 200px;
+    width:100%;
+}
+.nomaj1
+{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.jumbo
+{
+    min-height: 300px;
+    
+    background-image: url("https://stealthsonics.com//wp-content/uploads/2018/07/SS_HP_Science_banners2.jpg?id=6684"); 
+    background-position: 50% 50%; 
+    background-size: cover;
+     transform: translate3d(0px, 0px, 0px); 
+    display: block;
+    z-index: 0;
+    margin-top: 100px;
+
+
+}
+
+.newshead
+{
+    color: white;
+    z-index: 1;
+    text-align: center;
+    padding-top: 130px;
+    font-size: xx-large; 
+}
+
+.nopad
+{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
