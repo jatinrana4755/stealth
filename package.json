@@ -2,7 +2,6 @@
   "name": "stealthsonic",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jatinrana4755.github.io/stealth",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "konva": "^2.5.1",

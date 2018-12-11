@@ -224,12 +224,12 @@ self.__precacheManifest = [
     "url": "/stealth/static/media/supportknobs.0c0ac6a2.jpg"
   },
   {
-    "revision": "c4af4dc00bbd627568a3dee069d9ae41",
-    "url": "/stealth/static/media/morejustarms.c4af4dc0.png"
-  },
-  {
     "revision": "489bf9399fc4b095f4204be1d3383094",
     "url": "/stealth/static/media/rocker_18538390.489bf939.jpg"
+  },
+  {
+    "revision": "c4af4dc00bbd627568a3dee069d9ae41",
+    "url": "/stealth/static/media/morejustarms.c4af4dc0.png"
   },
   {
     "revision": "93f14a790094d068eb5e0b613221e715",
